@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0-no-webpack/0-no-webpack.iml" filepath="$PROJECT_DIR$/0-no-webpack/0-no-webpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-add-webpack/1-add-webpack.iml" filepath="$PROJECT_DIR$/1-add-webpack/1-add-webpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-connect-analytics/2-connect-analytics.iml" filepath="$PROJECT_DIR$/2-connect-analytics/2-connect-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-/3-hash-names.iml" filepath="$PROJECT_DIR$/3-/3-hash-names.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-webpack.iml" filepath="$PROJECT_DIR$/.idea/learn-webpack.iml" />
+    </modules>
+  </component>
+</project>
