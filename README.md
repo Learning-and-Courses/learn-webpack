@@ -15,3 +15,5 @@ The repo has several modules. Each module -
  In the first module the project doesn't use Webpack. The disadvantages of this approach are well-described. 
  
  The next module adds base Webpack support, the third module adds new Webpack features and so on...
+ 
+ These notes are mostly taken from the ["Webpack course"](https://www.youtube.com/watch?v=eSaF8NXeNsA&t=3017s "YouTube") by Vladilen Minin.
